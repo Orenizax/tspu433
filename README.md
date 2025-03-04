@@ -1,5 +1,5 @@
 ```sql
-    SELECT * FROM employees where gender = 'M';
+SELECT * FROM employees where gender = 'M';
 ```
 
 ```sql
